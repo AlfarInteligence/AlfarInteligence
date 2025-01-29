@@ -1,11 +1,27 @@
 # AlfarAI - 3D Image Generation Platform
 
-We're building the future of 3D content creation with AI. Our platform transforms text into stunning 3D visuals, making professional 3D generation accessible to everyone.
+![AlfarAI Banner](https://images.unsplash.com/photo-1633356122544-f134324a6cee?auto=format&fit=crop&w=1200&q=80)
 
-## 🚀 Featured Projects
+AlfarAI is a modern web application that transforms text descriptions into stunning 3D images using artificial intelligence. Built with React, TypeScript, and the Stability AI API, it offers an intuitive interface for creating high-quality 3D renders.
 
-### Text-to-3D Platform
-Transform your ideas into stunning 3D visuals using our advanced AI technology. Create professional-quality 3D renders with simple text descriptions.
+## 🚀 Features
+
+- **AI-Powered Image Generation**: Transform text descriptions into detailed 3D images
+- **Multiple Style Options**: Choose from various rendering styles including 3D render, realistic, stylized, and abstract
+- **Quality Control**: Select different quality levels to balance between generation speed and image detail
+- **Batch Generation**: Create multiple variations of your concept in a single generation
+- **Modern UI**: Beautiful, responsive interface with dark mode and glass morphism design
+- **Real-time Preview**: See your generated images instantly in the preview panel
+- **Download Options**: Easily download and save your generated images
+
+## 🛠️ Technology Stack
+
+- **Frontend**: React + TypeScript
+- **Styling**: Tailwind CSS
+- **Icons**: Lucide React
+- **Routing**: React Router
+- **AI Integration**: Stability AI API
+- **Build Tool**: Vite
 
 ### Enterprise Solutions
 Custom AI solutions for businesses, enabling scalable 3D content creation and automation.
