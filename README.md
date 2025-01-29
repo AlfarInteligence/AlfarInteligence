@@ -13,10 +13,29 @@ Custom AI solutions for businesses, enabling scalable 3D content creation and au
 ### Creator Tools
 Empowering artists and designers with AI-powered tools for faster, more efficient workflows.
 
+## 🌐 Blockchain Integration
+
+Our platform leverages Solana blockchain technology through the $ALFAR token to create a decentralized ecosystem for 3D content creation:
+
+### Why Blockchain?
+- **Ownership & Rights**: Every generated 3D asset is tokenized on Solana, providing verifiable ownership and rights management
+- **Creator Economy**: Artists earn $ALFAR tokens for their contributions and popular creations
+- **Governance**: Token holders participate in platform decisions and feature prioritization
+- **Usage Credits**: $ALFAR tokens can be used to generate 3D content, creating a sustainable ecosystem
+- **Community Rewards**: Active community members earn tokens through participation and curation
+
+### Token Utility
+- Access to premium features and higher generation limits
+- Participation in community governance
+- Trading and selling of generated 3D assets
+- Staking rewards for platform liquidity providers
+- Exclusive access to beta features and tools
+
 ## 🛠️ Our Tech Stack
 
 - **Frontend**: React, TypeScript, Tailwind CSS
 - **AI**: Stability AI, Custom ML Models
+- **Blockchain**: Solana, SPL Tokens
 - **Infrastructure**: Cloud-native, Scalable Architecture
 
 ## 🤝 Connect With Us
