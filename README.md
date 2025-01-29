@@ -1,6 +1,7 @@
 # AlfarAI - 3D Image Generation Platform
 
-![AlfarAI Banner](https://raw.githubusercontent.com/AlfaInteligence/AlfaInteligencemain/banner.png)
+![banner](https://github.com/user-attachments/assets/5047d31a-f05a-4479-b22f-620690d0dd88)
+
 
 AlfarAI is a modern web application that transforms text descriptions into stunning 3D images using artificial intelligence. Built with React, TypeScript, and the Stability AI API, it offers an intuitive interface for creating high-quality 3D renders.
 
