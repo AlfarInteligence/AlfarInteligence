@@ -2,7 +2,7 @@
 
 ![image](https://github.com/user-attachments/assets/93884c60-79e1-4bd5-a695-c82994c895e4)
 
-AlfarAI is a modern web application that transforms text descriptions into stunning 3D images using artificial intelligence. Built with React, TypeScript, and the Stability AI API, it offers an intuitive interface for creating high-quality 3D renders.
+AlfarAI is a modern web application that transforms text descriptions into stunning 3D images using artificial intelligence, it offers an intuitive interface for creating high-quality 3D renders.
 
 ## 🚀 Features
 
@@ -13,15 +13,6 @@ AlfarAI is a modern web application that transforms text descriptions into stunn
 - **Modern UI**: Beautiful, responsive interface with dark mode and glass morphism design
 - **Real-time Preview**: See your generated images instantly in the preview panel
 - **Download Options**: Easily download and save your generated images
-
-## 🛠️ Technology Stack
-
-- **Frontend**: React + TypeScript
-- **Styling**: Tailwind CSS
-- **Icons**: Lucide React
-- **Routing**: React Router
-- **AI Integration**: Stability AI API
-- **Build Tool**: Vite
 
 ### Enterprise Solutions
 Custom AI solutions for businesses, enabling scalable 3D content creation and automation.
@@ -46,13 +37,6 @@ Our platform leverages Solana blockchain technology through the $ALFAR token to 
 - Trading and selling of generated 3D assets
 - Staking rewards for platform liquidity providers
 - Exclusive access to beta features and tools
-
-## 🛠️ Our Tech Stack
-
-- **Frontend**: React, TypeScript, Tailwind CSS
-- **AI**: Stability AI, Custom ML Models
-- **Blockchain**: Solana, SPL Tokens
-- **Infrastructure**: Cloud-native, Scalable Architecture
 
 ## 🤝 Connect With Us
 
