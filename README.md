@@ -1,6 +1,3 @@
-![](https://raw.githubusercontent.com/AlfarInteligence/AlfarInteligence/output/snake.svg)&hide_border=true&count_private=true&include_all_commits=true&hide_title=true&show_icons=true&disable_animations=true&hide=contribs
-
-
 # AlfarAI - 3D Image Generation Platform
 
 ![image](https://github.com/user-attachments/assets/93884c60-79e1-4bd5-a695-c82994c895e4)
